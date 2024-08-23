@@ -1,4 +1,4 @@
-# Voice-Transciption-and-Summarization
+# Voice-Transcription-and-Summarization
 Voice transcription is a process by which audio recordings, usually created through dictation, are re-created as textual transcripts for a variety of purposes. This type of transcription is used in a number of fields, though medical transcriptions are quite common and allow doctors to make verbal notes that are later turned into text. Text summarisation extracts the utmost important information from a source which is a text and provides the adequate summary of the same. Our project is a combination of two Voice transcription and summarisation.
 
 ## Screenshots
